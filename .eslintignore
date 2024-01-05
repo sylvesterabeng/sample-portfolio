@@ -1,0 +1,7 @@
+/.next/
+/coverage/
+/node_modules/
+/storybook-static/
+/styled-system/
+*.config.js
+.*rc.js
